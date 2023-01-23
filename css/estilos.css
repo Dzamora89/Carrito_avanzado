@@ -1,0 +1,60 @@
+#cabecera {
+    border-bottom: 2px solid #555;
+    padding-bottom: 2rem;
+}
+
+#cabecera img {
+    width: 100px;
+}
+
+.filasProducto img {
+    border-radius: 10px;
+    width: 10rem;
+    max-height: 15rem;
+}
+
+.filasProducto p {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.filasProducto {
+    border-bottom: 2px solid #555;
+    padding: 2rem;
+}
+
+.main-btn {
+    padding: 0.6rem 1.0rem;
+    background-color: orange;
+    border: 0.2rem solid orange;
+    color: black;
+    font-weight: 600;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.4);
+    border-radius: 0.7rem;
+}
+
+.main-btn i {
+    position: relative;
+    top: -2px;
+    padding-left: 5px;
+}
+
+.carrito img {
+    width: 10rem;
+    max-height: 15rem;
+}
+
+.filaCarrito {
+    border-bottom: 2px solid #555;
+    padding: 1rem 0;
+}
+
+#nombreCarrito {
+    display: inline;
+}
+
+#mensajes {
+    color: red;
+    font-weight: bold;
+    font-size: 18pt;
+}
